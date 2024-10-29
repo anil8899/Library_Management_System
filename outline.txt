@@ -1,0 +1,27 @@
+Library System :
+-add new book
+-editing book
+-deleting book
+-Catagories
+-search
+-users.login,signup
+-setting [categories,author,publisher]
+-dat to day operations
+-reports[excel files]
+
+book :
+-title
+-code
+-desc
+-category
+-price
+-author
+-publisher
+
+Day to Day operations
+
+
+user:
+-username
+-password
+-email address
